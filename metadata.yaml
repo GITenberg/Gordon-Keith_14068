@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/184
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Nelson_Page
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14068#Gordon-Keith
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-11-17'
 gutenberg_type: Text
