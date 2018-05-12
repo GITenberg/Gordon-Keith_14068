@@ -1,0 +1,29 @@
+_repo: Gordon-Keith_14068
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14068-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Page, Thomas Nelson
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '184'
+    url: http://www.gutenberg.org/2009/agents/184
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Nelson_Page
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- History -- 1865-1877 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Young men -- Fiction'
+title: Gordon Keith
+url: http://www.gutenberg.org/ebooks/14068
